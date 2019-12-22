@@ -1,0 +1,16 @@
+#button-yes:hover
+{
+    -fx-background-radius: 6;
+    -fx-background-color: #00ae00;
+    -fx-border-radius: 6;
+    -fx-border-color: aliceblue;
+}
+#button-no:hover
+{
+    -fx-background-radius: 6;
+    -fx-background-color: #e80000;
+    -fx-border-radius: 6;
+    -fx-border-color: aliceblue;
+}
+
+

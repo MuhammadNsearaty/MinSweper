@@ -1,0 +1,93 @@
+.button
+{
+    -fx-border-color: #476599;
+    -fx-background-repeat: stretch;
+    -fx-background-size: 35 35;
+    -fx-background-position: center center;
+    -fx-background-radius: 6;
+    -fx-border-radius: 6;
+}
+.root
+{
+    -fx-background-image: url('Gui2/PlayScene1.png');
+}
+.button:hover
+{
+    -fx-background-color: #2f8bff;
+}
+.label
+{
+    -fx-text-fill: aliceblue;
+    -fx-font-family: Lucida Fax;
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+}
+#mark
+{
+    -fx-background-image: url('Gui2/Flag4.png');
+    -fx-background-color: gray;
+    -fx-background-repeat: stretch;
+    -fx-background-size: 35 35;
+    -fx-background-position: center center;
+    -fx-background-radius: 8;
+    -fx-border-radius: 8;
+}
+#unmark
+{
+
+    -fx-background-image: url('Gui2/blue-button3.png');
+    -fx-background-repeat: stretch;
+    -fx-background-size: 35 35;
+    -fx-background-position: center center;
+    -fx-background-radius: 8;
+    -fx-border-radius: 8;
+}
+#mine
+{
+
+    -fx-background-image: url('Gui2/vvvvv.png');
+
+    -fx-background-repeat: stretch;
+    -fx-background-size: 35 35;
+    -fx-background-position: center center;
+    -fx-border-radius: 8;
+    -fx-background-radius: 8;
+}
+#shield
+{
+    -fx-background-image: url('Gui2/Shield.png');
+
+    -fx-background-repeat: stretch;
+    -fx-background-size: 35 35;
+    -fx-background-position: center center;
+    -fx-border-radius: 8;
+    -fx-background-radius: 8;
+
+
+}
+#revealed-mine
+{
+    -fx-background-image: url('Gui2/vvvvv.png');
+    -fx-background-color: green;
+    -fx-background-repeat: stretch;
+    -fx-background-size: 35 35;
+    -fx-background-position: center center;
+    -fx-border-radius: 8;
+    -fx-background-radius: 8;
+}
+#closed
+{
+-fx-background-color :none;
+-fx-background-image: none;
+        -fx-border-color: #476599;
+                        -fx-background-repeat: stretch;
+                        -fx-background-size: 35 35;
+                        -fx-background-position: center center;
+                        -fx-background-radius: 6;
+                        -fx-border-radius: 6;
+}
+#replay
+{
+
+-fx-background-color : aliceblue;
+}

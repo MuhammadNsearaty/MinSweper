@@ -1,0 +1,15 @@
+.jfx-progress-bar > .track
+{
+    -fx-background-color: blue;
+    -fx-background-radius: 8;
+}
+.jfx-progress-bar > .bar
+{
+    -fx-background-color: red;
+    -fx-background-radius: 8;
+}
+.jfx-progress-bar
+{
+    -fx-padding: 10px;
+    -fx-progress-color: yellow;
+}

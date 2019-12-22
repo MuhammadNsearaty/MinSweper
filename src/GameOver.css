@@ -1,0 +1,18 @@
+.root
+{
+    -fx-background-image: url('Gui2/GameOver.png');
+    -fx-background-size: 300 200;
+    -fx-background-position: center center;
+    -fx-background-repeat: stretch;
+}
+.button
+{
+    -fx-background-color: #ff000e;
+    -fx-text-fill: white;
+}
+.label
+{
+    -fx-font-weight: bold;
+    -fx-font-size: 14;
+    -fx-font-family: "Fira Code Retina";
+}
