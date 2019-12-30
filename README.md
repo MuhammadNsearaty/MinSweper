@@ -1,5 +1,4 @@
 # MinSweper
-note : you have to put the jfoinex.jar on your desktop
 The Famous minesweeper game with new features and new Themes
 it's a simple rules game
 the extra features:
